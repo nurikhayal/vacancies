@@ -13,6 +13,7 @@ This project aims to:
 ## Project Structure
 - `config/`: Configuration file for the pipeline.
 - `data/`: Contains raw and processed data files.
+- `functions/`: Functions for downloading and processing the vacancy data.
 - `output/`: Stores visualisations and model outputs.
 - `pipeline.ipynb`: Jupyter notebook implementing the pipeline.
 - `requirements.txt`: List of required Python packages.
