@@ -1,9 +1,12 @@
 # data folder (keep only the folders but no the data inside)
-data/**/*
-!data/**/
+data/raw/**
+data/clean/**
+!data/raw/.gitkeep
+!data/cleaned/.gitkeep
 
 # output folder
-output/
+output/**
+!output/.gitkeep
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
