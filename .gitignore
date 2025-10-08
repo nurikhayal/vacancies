@@ -2,7 +2,7 @@
 data/raw/**
 data/clean/**
 !data/raw/.gitkeep
-!data/cleaned/.gitkeep
+!data/clean/.gitkeep
 
 # output folder
 output/**
